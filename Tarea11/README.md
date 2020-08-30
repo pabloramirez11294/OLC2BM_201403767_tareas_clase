@@ -5,4 +5,4 @@ Escriba un esquema de traducción dirigido por la sintaxis posfijo, para un anal
 
 #### Resultado
 
-
+![image info](./img/resul.png)
